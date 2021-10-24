@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>res/menu.json</file>
+        <file>res/img/test_image.jpg</file>
+        <file>res/test_recipe.recipe</file>
+    </qresource>
+</RCC>
